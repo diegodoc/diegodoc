@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working with **Python, AI, Machine Learning, Data analysis**
 
-- 🌱 I’m currently learning **to create predictive models in areas of personal interest**
+- 🌱 I’m currently learning **to create predictive and classification models in areas of personal interest, especially real estate**
 
 - 📚 Computer engineering student at Universidade de Pernambuco
 
